@@ -1,1 +1,1 @@
-print("Hello from Azure Pipeline!")
+print("Hello from Azure Pipeline REC!")
