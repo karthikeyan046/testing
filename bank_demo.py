@@ -1,7 +1,7 @@
 # Simulate account operations
 
 def view_balance():
-    print("Your balance is $1000000777777777777")
+    print("Your balance is $99999999999999999999")
 
 def transfer_funds(amount):
     print(f"Transferred ${amount} successfully!")
